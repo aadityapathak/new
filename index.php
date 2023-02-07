@@ -1,1 +1,1 @@
-echo 'my name is govind';
+<?php  echo 'my name is govind';   ?>
